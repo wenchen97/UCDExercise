@@ -72,4 +72,3 @@ yell1,yell2=shout_all("congratulations","you")
 # Print yell1 and yell2
 print(yell1)
 print(yell2)
-
