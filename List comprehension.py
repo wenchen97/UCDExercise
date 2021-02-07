@@ -43,3 +43,4 @@ def get_lengths(input_list):
 for value in get_lengths("lannister"):
     print(value)
 
+
